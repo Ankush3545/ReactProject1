@@ -1,2 +1,2 @@
 # ReactProject1 
-With Different Frontend features.
+E-commerce Website using React JS Library.
